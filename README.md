@@ -1,8 +1,6 @@
-# Text-Summarization-Project
+# 📝 End to ENd Text-Summarization-Project
 
-# End to end Text-Summarizer-Project
-
-## Workflows
+## 🛠️ Workflows
 
 1. Update config.yaml
 2. Update params.yaml
@@ -14,7 +12,7 @@
 8. update the app.py
 
 
-# How to run?
+# 🚀  How to run?
 ### STEPS:
 
 Clone the repository
@@ -59,7 +57,7 @@ Email: krishnaik06@gmail.com
 
 
 
-# AWS-CICD-Deployment-with-Github-Actions
+# 🐳 AWS CI/CD Deployment with GitHub Actions 🚀
 
 ## 1. Login to AWS console.
 
@@ -131,6 +129,13 @@ Email: krishnaik06@gmail.com
     AWS_ECR_LOGIN_URI = demo>>  566373416292.dkr.ecr.ap-south-1.amazonaws.com
 
     ECR_REPOSITORY_NAME = simple-app
+
+# 🛠️ Deployment Steps
+Build Docker Image: The source code is containerized using Docker.
+Push Docker Image to ECR: The image is pushed to AWS Elastic Container Registry (ECR).
+Launch EC2 Instance: The application is deployed on AWS EC2.
+Pull Docker Image from ECR: The EC2 instance pulls the latest Docker image from ECR.
+Run Docker Container: The Docker image is run on the EC2 instance, hosting the summarizer service.
 
 
 ### i am a student, i am learning and trying to be batter 
