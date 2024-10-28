@@ -139,7 +139,6 @@ Run Docker Container: The Docker image is run on the EC2 instance, hosting the s
 
 
 
-# ![Output]("C:\Users\100me\OneDrive\Pictures\Screenshots\Screenshot 2023-11-20 133725.png")
 
 ### i am a student, i am learning and trying to be batter 
 
