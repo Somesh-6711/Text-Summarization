@@ -138,6 +138,9 @@ Pull Docker Image from ECR: The EC2 instance pulls the latest Docker image from 
 Run Docker Container: The Docker image is run on the EC2 instance, hosting the summarizer service.
 
 
+
+# ![Output]("C:\Users\100me\OneDrive\Pictures\Screenshots\Screenshot 2023-11-20 133725.png")
+
 ### i am a student, i am learning and trying to be batter 
 
 
