@@ -139,6 +139,11 @@ Run Docker Container: The Docker image is run on the EC2 instance, hosting the s
 
 
 
+![Screenshot 2023-11-20 133725](https://github.com/user-attachments/assets/d9a2ed12-de19-48cd-af6a-6b7f997e66b4)
+![Screenshot 2023-11-20 133703](https://github.com/user-attachments/assets/6c7553a9-272b-42a2-8c25-d6d7aba783ac)
+![Screenshot 2023-11-20 133644](https://github.com/user-attachments/assets/3e5e3751-7ddc-4319-933e-95b39e797881)
+
+
 
 ### i am a student, i am learning and trying to be batter 
 
